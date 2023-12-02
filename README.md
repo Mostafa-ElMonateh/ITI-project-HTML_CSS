@@ -1,2 +1,2 @@
-# ITI-projects
-This Repo includes all ITI projects
+# ITI-project-HTML&&CSS
+-- Kitchen Restaurant
